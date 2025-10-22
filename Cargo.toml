@@ -1,0 +1,9 @@
+[package]
+name = "my_parser_kma_lol1337"
+version = "0.1.1"
+edition = "2024"
+license = "MIT"
+description = "gud parser"
+
+[dependencies]
+peg = "0.8.5"
